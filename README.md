@@ -1,2 +1,2 @@
 # Divnej GRAF more
-![image][graf.png]
+![grafik](graf.png)
